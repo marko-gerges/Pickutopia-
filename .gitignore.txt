@@ -1,0 +1,136 @@
+# =========================
+# Flutter project inside:
+# Graduation Project/
+# =========================
+
+# Miscellaneous
+Graduation Project/*.class
+Graduation Project/*.lock
+Graduation Project/*.log
+Graduation Project/*.pyc
+Graduation Project/*.swp
+Graduation Project/.DS_Store
+Graduation Project/.atom/
+Graduation Project/.buildlog/
+Graduation Project/.history/
+Graduation Project/.svn/
+
+# Keep pubspec.lock for Flutter app
+!Graduation Project/pubspec.lock
+
+# IntelliJ / Android Studio
+Graduation Project/*.iml
+Graduation Project/*.ipr
+Graduation Project/*.iws
+Graduation Project/.idea/
+
+# VS Code
+Graduation Project/.classpath
+Graduation Project/.project
+Graduation Project/.settings/
+Graduation Project/.vscode/*
+!Graduation Project/.vscode/settings.json
+
+# Flutter / Dart / Pub
+Graduation Project/**/doc/api/
+Graduation Project/.dart_tool/
+Graduation Project/.flutter-plugins
+Graduation Project/.flutter-plugins-dependencies
+Graduation Project/**/generated_plugin_registrant.dart
+Graduation Project/.packages
+Graduation Project/.pub-preload-cache/
+Graduation Project/.pub-cache/
+Graduation Project/.pub/
+Graduation Project/build/
+Graduation Project/flutter_*.png
+Graduation Project/linked_*.ds
+Graduation Project/unlinked.ds
+Graduation Project/unlinked_spec.ds
+
+# Android
+Graduation Project/android/.gradle/
+Graduation Project/android/captures/
+Graduation Project/android/local.properties
+Graduation Project/android/key.properties
+Graduation Project/android/.cxx/
+Graduation Project/android/**/GeneratedPluginRegistrant.java
+Graduation Project/*.jks
+Graduation Project/*.keystore
+
+# iOS / Xcode
+Graduation Project/ios/**/*.mode1v3
+Graduation Project/ios/**/*.mode2v3
+Graduation Project/ios/**/*.moved-aside
+Graduation Project/ios/**/*.pbxuser
+Graduation Project/ios/**/*.perspectivev3
+Graduation Project/ios/**/*sync/
+Graduation Project/ios/**/.sconsign.dblite
+Graduation Project/ios/**/.tags*
+Graduation Project/ios/**/.vagrant/
+Graduation Project/ios/**/DerivedData/
+Graduation Project/ios/**/Icon?
+Graduation Project/ios/**/Pods/
+Graduation Project/ios/**/.symlinks/
+Graduation Project/ios/**/profile
+Graduation Project/ios/**/xcuserdata/
+Graduation Project/ios/.generated/
+Graduation Project/ios/Flutter/.last_build_id
+Graduation Project/ios/Flutter/App.framework
+Graduation Project/ios/Flutter/Flutter.framework
+Graduation Project/ios/Flutter/Flutter.podspec
+Graduation Project/ios/Flutter/Generated.xcconfig
+Graduation Project/ios/Flutter/ephemeral/
+Graduation Project/ios/Flutter/app.flx
+Graduation Project/ios/Flutter/app.zip
+Graduation Project/ios/Flutter/flutter_assets/
+Graduation Project/ios/Flutter/flutter_export_environment.sh
+Graduation Project/ios/ServiceDefinitions.json
+Graduation Project/ios/Runner/GeneratedPluginRegistrant.*
+
+# iOS exceptions
+!Graduation Project/ios/**/default.mode1v3
+!Graduation Project/ios/**/default.mode2v3
+!Graduation Project/ios/**/default.pbxuser
+!Graduation Project/ios/**/default.perspectivev3
+
+# macOS
+Graduation Project/Flutter/ephemeral/
+Graduation Project/Pods/
+Graduation Project/macos/Flutter/GeneratedPluginRegistrant.swift
+Graduation Project/macos/Flutter/ephemeral/
+Graduation Project/**/xcuserdata/
+
+# Swift Package Manager
+Graduation Project/**/.build/
+
+# Windows
+Graduation Project/windows/flutter/ephemeral/
+Graduation Project/windows/flutter/generated_plugin_registrant.cc
+Graduation Project/windows/flutter/generated_plugin_registrant.h
+Graduation Project/windows/flutter/generated_plugins.cmake
+
+# Linux
+Graduation Project/linux/flutter/ephemeral/
+Graduation Project/linux/flutter/generated_plugin_registrant.cc
+Graduation Project/linux/flutter/generated_plugin_registrant.h
+Graduation Project/linux/flutter/generated_plugins.cmake
+
+# Coverage
+Graduation Project/coverage/
+
+# Symbols
+Graduation Project/app.*.symbols
+
+# Environment / secrets
+Graduation Project/.env
+Graduation Project/.env.*
+Graduation Project/*.env
+Graduation Project/secrets.json
+
+# AI / local tools
+Graduation Project/.agents/rules/personal-*
+Graduation Project/.agents/skills/personal-*
+Graduation Project/.agent-shell/
+
+# Optional: ignore this folder if it exists inside Graduation Project
+Graduation Project/Web Integration/
