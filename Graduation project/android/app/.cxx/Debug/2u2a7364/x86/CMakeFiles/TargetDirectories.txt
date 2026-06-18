@@ -1,0 +1,2 @@
+C:/Users/patri/StudioProjects/pickutopia/android/app/.cxx/Debug/2u2a7364/x86/CMakeFiles/edit_cache.dir
+C:/Users/patri/StudioProjects/pickutopia/android/app/.cxx/Debug/2u2a7364/x86/CMakeFiles/rebuild_cache.dir

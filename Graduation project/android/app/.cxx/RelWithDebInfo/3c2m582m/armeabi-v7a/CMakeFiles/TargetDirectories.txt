@@ -1,0 +1,2 @@
+C:/Users/3m.b/StudioProjects/pickutopia/android/app/.cxx/RelWithDebInfo/3c2m582m/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/3m.b/StudioProjects/pickutopia/android/app/.cxx/RelWithDebInfo/3c2m582m/armeabi-v7a/CMakeFiles/rebuild_cache.dir

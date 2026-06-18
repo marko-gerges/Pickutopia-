@@ -1,0 +1,15 @@
+flutter_native_splash:
+  # Use the "Black Blue" from your theme for the background
+  color: "#0F0B1E" 
+  
+  # Ensure the path points to your new logo
+  image: assets/logos/app_logo.png
+
+  android_12:
+    # Matching the background for Android 12+ systems
+    color: "#0F0B1E"
+    image: assets/logos/app_logo_android12.png
+    
+    # Optional: If your logo is a circular icon, you can set the 
+    # icon background to match the purple in the logo itself
+    icon_background_color: "#9D50FF"
